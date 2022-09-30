@@ -1,0 +1,3 @@
+rootProject.name = 'hm-was'
+
+include 'hm-front'
